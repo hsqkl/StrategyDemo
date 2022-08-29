@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 7a88aaa3e14c62c4e9a62c62a594c700
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7863553717130063180
+    second: Assassin_0
+  - first:
+      213: 6552119585630859247
+    second: Assassin_1
+  - first:
+      213: -1351173917181330320
+    second: Assassin_2
+  - first:
+      213: 9146000805416267091
+    second: Assassin_3
+  - first:
+      213: 8162015446553768870
+    second: Assassin_4
+  - first:
+      213: 148694012694385590
+    second: Assassin_5
+  - first:
+      213: 4997619817733392922
+    second: Assassin_6
+  - first:
+      213: 688670830695559544
+    second: Assassin_7
+  - first:
+      213: -9113222091327291742
+    second: Assassin_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assassin_0
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1198
+        width: 390
+        height: 739
+      alignment: 9
+      pivot: {x: 0.52243316, y: 0.29873958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d6dbd5174f02d60800000000000000
+      internalID: 7863553717130063180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assassin_1
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1471
+        width: 166
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef286b6c0ecdea50800000000000000
+      internalID: 6552119585630859247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assassin_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 769
+        width: 277
+        height: 299
+      alignment: 9
+      pivot: {x: 0.54737675, y: 0.48536953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c32ac2b7aaf3de0800000000000000
+      internalID: -1351173917181330320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assassin_3
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 987
+        width: 145
+        height: 154
+      alignment: 9
+      pivot: {x: 0.9223616, y: 0.92608327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de542664f1dee70800000000000000
+      internalID: 9146000805416267091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assassin_4
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1003
+        width: 156
+        height: 144
+      alignment: 9
+      pivot: {x: 0.107421875, y: 0.8949161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3b61fedcd454170800000000000000
+      internalID: 8162015446553768870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assassin_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 397
+        width: 124
+        height: 160
+      alignment: 9
+      pivot: {x: 0.67638963, y: 0.8554241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b350eeaa64401200800000000000000
+      internalID: 148694012694385590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assassin_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 406
+        width: 110
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.84535176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a8376eebc1b5540800000000000000
+      internalID: 4997619817733392922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assassin_7
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 375
+        width: 137
+        height: 171
+      alignment: 9
+      pivot: {x: 0.787374, y: 0.19301958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87138c6c876ae8900800000000000000
+      internalID: 688670830695559544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assassin_8
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 383
+        width: 170
+        height: 354
+      alignment: 9
+      pivot: {x: 0.19121596, y: 0.09221171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb137bac4578180800000000000000
+      internalID: -9113222091327291742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

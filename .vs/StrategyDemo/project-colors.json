@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63000268-7ad6-f2c4-e847-d7b03a2294e6": {
+      "ProjectGuid": "63000268-7ad6-f2c4-e847-d7b03a2294e6",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

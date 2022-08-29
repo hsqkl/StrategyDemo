@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: e0d15f169a397324f874136575c82ff9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5999716367156429195
+    second: Villages_0
+  - first:
+      213: 943890428058499075
+    second: Villages_1
+  - first:
+      213: 6653039985920016062
+    second: Villages_2
+  - first:
+      213: 275505573287473377
+    second: Villages_3
+  - first:
+      213: -5263146349585959981
+    second: Villages_4
+  - first:
+      213: -5137315543989259385
+    second: Villages_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Villages_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 66
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.282135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e3b8e70c9bcbca0800000000000000
+      internalID: -5999716367156429195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villages_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 108
+        width: 82
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5425103, y: 0.35902855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3087157e75f591d00800000000000000
+      internalID: 943890428058499075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villages_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 111
+        width: 64
+        height: 79
+      alignment: 9
+      pivot: {x: 0.52042484, y: 0.32901734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe7b3d2e98545c50800000000000000
+      internalID: 6653039985920016062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villages_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 67
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35475674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0b075fbdac2d300800000000000000
+      internalID: 275505573287473377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villages_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 18
+        width: 65
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50670356, y: 0.37456247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f808c74c85f6b0800000000000000
+      internalID: -5263146349585959981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villages_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53168947, y: 0.3630563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7837d6d3bb694b8b0800000000000000
+      internalID: -5137315543989259385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
